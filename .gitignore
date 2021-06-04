@@ -5,6 +5,10 @@
 /.pnp
 .pnp.js
 
+# productes
+/Atoms
+/Molecules
+
 # testing
 /coverage
 

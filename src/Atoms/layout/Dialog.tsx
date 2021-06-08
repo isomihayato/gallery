@@ -1,4 +1,3 @@
-import React, { useState, useEffect } from 'react'
 import { Dialog, DialogTitle } from '@material-ui/core'
 
 type Props = {
